@@ -55,7 +55,7 @@ function main {
     fi
 
     create_folder $dir/$tmp
-    create_folder $idr/$output
+    create_folder $dir/$output
 
     for year in `seq $start_year $end_year`; do
         download_data $year
