@@ -1,3 +1,4 @@
 .idea/
 chapter02/target/
 **/*.iml
+**/.tmp
