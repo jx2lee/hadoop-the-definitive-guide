@@ -2,3 +2,4 @@
 chapter02/target/
 **/*.iml
 **/.tmp
+**/.DS_Store
