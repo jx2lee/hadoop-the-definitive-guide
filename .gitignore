@@ -1,5 +1,5 @@
 .idea/
-chapter02/target/
+**/target
 **/*.iml
 **/.tmp
 **/.DS_Store
