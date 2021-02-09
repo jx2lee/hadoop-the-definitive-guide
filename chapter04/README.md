@@ -7,7 +7,7 @@
 ![https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/06/Hadoop-v1.0-vs-Hadoop-v2.0.png](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/06/Hadoop-v1.0-vs-Hadoop-v2.0.png)
 
 ## Yarn 애플리케이션 수행
-![https://nnkumar13home.files.wordpress.com/2018/11/fig04.png?w=1200](https://nnkumar13home.files.wordpress.com/2018/11/fig04.png?w=1200)
+![https://static.packt-cdn.com/products/9781788999830/graphics/4ca83c2b-6e29-45d1-a15a-9674ba8cbae7.png](https://static.packt-cdn.com/products/9781788999830/graphics/4ca83c2b-6e29-45d1-a15a-9674ba8cbae7.png)
 
 * resource manager: 클러스터 전체 자원의 사용량 관리
 * node manager: 컨테이너 구동 및 모니터링
